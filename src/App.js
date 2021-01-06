@@ -6,10 +6,11 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h1>Hello from V2</h1>
         <p>
           Edit <code>src/App.js</code> and save to reload.
           <br></br>
-          This is an edit by Sanju
+          This is an edit by Shincy on Jan 06, 2021
         </p>
         <a
           className="App-link"
